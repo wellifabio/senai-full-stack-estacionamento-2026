@@ -24,6 +24,19 @@ Documentação visual da arquitetura e fluxos do sistema.
 
 ---
 
+---
+
+## 📖 Imagens do site
+
+### Cadastro do veículo 
+<img src="assets/1.png" width="550">
+
+### Cadastro e Histórico de estadias
+<img src="assets/2.png" width="550">
+
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 | Camada | Tecnologia | Versão |
